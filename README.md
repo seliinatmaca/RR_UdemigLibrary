@@ -1,4 +1,4 @@
-<h1> RRD_UdemigLibrary </h1>
+<h1> RR_UdemigLibrary </h1>
 
 This project encompasses a simple book application created using React and React Router. The project serves as an example of utilizing React Router for navigation between different pages, listing products and accessing their details. It also handles scenarios such as a 404 error. The aim is to demonstrate the usage of React Router in managing navigation and handling various states within a React application.
 
