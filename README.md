@@ -9,6 +9,10 @@ This project encompasses a simple book application created using React and React
 <li>React Router: A router library used for navigation and routing between pages</li>
 </ul>
 
+<h2> Demo </h2>
+
+You can view a live demo of this project [here](https://seliinatmaca.github.io/RR_UdemigLibrary/).
+
 <h2> Screenshot </h2>
 
 ![](screen.gif)
